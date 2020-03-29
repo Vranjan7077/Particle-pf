@@ -12,15 +12,15 @@ A particle-theme template as a landing page for your portfolio.
     $ git clone https://github.com/Vranjan7077/Particle-pf.git
     ```
  
-  - Go inside the main repository
+- Go inside the main repository
   
     ```
     $ cd Particle-pf
     ```
     
-  - Modify `index.html` to change the names and links to point at your pages.
+- Modify `index.html` to change the names and links to point at your pages.
   
-  - Upload your resume in the place of `cv.pdf`.
+- Upload your resume in the place of `cv.pdf`.
 
 # Particle Feature
 
