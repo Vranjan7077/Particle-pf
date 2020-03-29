@@ -1,7 +1,7 @@
 # Particle Theme 
 A particle-theme template as a landing page for your portfolio.
 
-<img src="particle_demo/particle_demo.png"/>
+<img src="https://github.com/Vranjan7077/Particle-pf/blob/master/particle_demo/particle_demo.jpg?raw=true"/>
 
 # You can use this Template as :
 - Fork and Clone the repository
