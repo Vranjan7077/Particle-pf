@@ -1,8 +1,6 @@
 # Particle Theme 
 A particle-theme template as a landing page for your portfolio.
 
-> [Demo]
-
 <img src="particle_demo/particle_demo.png"/>
 
 # You can use this Template as :
